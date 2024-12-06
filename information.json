@@ -1,0 +1,10 @@
+{
+    "dependencies": {
+        "communicator": 4
+    },
+    "id_name": "conductor_client",
+    "version": 4,
+    "author": "tom",
+    "name": "Conductor Client",
+    "description": ""
+}
